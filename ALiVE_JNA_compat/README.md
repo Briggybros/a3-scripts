@@ -8,4 +8,4 @@ Persist JNA limited arsenal with ALiVE persistence.
 - [Jeroen-Notenbomer/Limited-Arsenal](https://github.com/Jeroen-Notenbomer/Limited-Arsenal) present in the scenario
 
 ## Usage ##
-Replace `this call jn_fnc_arsenal_init` with `ALiVE_JNA_fnc_arsenal_initPersistent`
+Replace `this call jn_fnc_arsenal_init;` with `ALiVE_JNA_fnc_arsenal_initPersistent;`
